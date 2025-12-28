@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Zanzara Estate - AI-Powered East African Real Estate",
+  "description": "A high-scale, multi-vendor real estate platform for East Africa featuring AI chatbots, multilingual support, agent portfolios, and secure verification systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
